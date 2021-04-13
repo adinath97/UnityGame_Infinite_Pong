@@ -16,7 +16,7 @@ public class LastPointWinsAIPaddle : MonoBehaviour
         xMin = -13.2f;
         xMax = 10.9f;
         startMoving = false;
-        moveSpeed = Random.Range(18f,19f);
+        moveSpeed = 0f;
     }
 
     // Update is called once per frame
